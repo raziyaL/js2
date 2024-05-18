@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Snowwhite",
+    "age": 14,
+    "person_photo":  "https://m.media-amazon.com/images/I/516TmpEF-IL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name":"Anna",
+    "age": 21,
+    "person_photo":"https://lumiere-a.akamaihd.net/v1/images/ct_frozen_anna_18466_6775584b.jpeg?region=69,0,462,600"
+  },
+  {
+    "name":"Merida",
+    "age": 16,
+    "person_photo": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_654ce787ce46c81db79f8d54_654ce7b3e497022ae8abe8ba/scale_1200"
+  },
+  {
+    "name":"Sinderella",
+    "age": 19,
+    "person_photo":"https://i.pinimg.com/736x/62/b2/14/62b214cc455f8f719237984a53431ff8.jpg"
+  },
+  {
+    "name":"Jasmin",
+    "age": 15,
+    "person_photo":"https://upload.wikimedia.org/wikipedia/ru/4/49/Jasmine-disney-princess.jpg"
+  },
+  {
+    "name":"Mulan",
+    "age": 16,
+    "person_photo":"https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/2021/02/11/mulan.jpg"
+  }
+]

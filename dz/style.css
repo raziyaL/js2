@@ -1,0 +1,14 @@
+img{
+    width: 250px;
+    height: 250px;
+}
+.class{
+    width: 900px;
+    margin: 90px auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+button{
+    background-color: #1ae907;
+}
