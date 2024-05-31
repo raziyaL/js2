@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://www.color-meanings.com/wp-content/uploads/2023/08/hot-pink-clouds-in-morning-sky.jpeg");
+}
+.container {
+    width: 155px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.board {
+    width: 155px;
+    display: flex;
+    border: 2px solid black;
+}
+
+.cell {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    font-size: 24px;
+    line-height: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.status {
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+button {
+    margin-top: 10px;
+    font-size: 18px;
+}

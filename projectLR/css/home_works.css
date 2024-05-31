@@ -1,0 +1,127 @@
+
+/* GMAIL BLOCK */
+
+.gmail_block {
+    background: rgba(242, 234, 255, 0.97);
+    padding: 100px 0;
+}
+.gmail_block p{
+    color: #b3905b;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+.world{
+    width: 300px;
+    height: 300px;
+}
+.world img{
+    padding: 2px;
+    width: 300px;
+    height: 295px;
+}
+
+.inner_gmail_block {
+    background-color: #ffffff;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.form_gmail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_gmail button {
+    width: 350px;
+    margin: 20px 0;
+    background: rgba(242, 234, 255, 0.97);
+    color: #b3905b;
+}
+.form_gmail input{
+    background: rgba(242, 234, 255, 0.97);
+}
+
+/* MOVE BLOCK */
+
+.move_block {
+    background: rgba(242, 234, 255, 0.97);
+    padding: 50px 0;
+}
+.move_block h3{
+    color: #b3905b;
+}
+
+.inner_parent_block {
+    height: 400px;
+    width: 400px;
+    background: rgba(242, 234, 255, 0.97);
+    border-radius: 18px;
+}
+
+.parent_block {
+    background-image: url("https://r2.community.samsung.com/t5/image/serverpage/image-id/2858216iF966CF430D380489/image-size/large?v=v2&px=999");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 auto;
+    width: 650px;
+    height: 500px;
+    background-color: #00c3f6;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+
+}
+
+.child_block {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.child_block img{
+    width: 70px;
+    height: 70px;
+}
+
+.inner_move_block {
+    margin-top: 50px;
+}
+
+
+
+
+/*-------STOP WATCH------ */
+
+.time {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    height: 100px;
+    width: 100%;
+    border-bottom: 1px solid  #b3905b;
+    margin-top: 40px;
+}
+
+.time_block {
+    display: flex;
+    width: 500px;
+    justify-content: center;
+}
+
+.stopwatch {
+    padding: 100px 0;
+    background: rgba(242, 234, 255, 0.97);
+}
+
+.time_buttons {
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
